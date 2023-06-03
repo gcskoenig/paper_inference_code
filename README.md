@@ -1,4 +1,5 @@
 # Supplementary Material for "Relating the PDP and PFI to the Data Generating Process"
+by Christoph Molnar, Timo Freiesleben, Gunnar König, Julia Herbinger, Tim Reisinger, Giuseppe Casalicchio, Marvin Wright, Bernd Bischl; submitted at the XAI Conference 2023.
 
 The full paper can be accessed via [TBD].
 
