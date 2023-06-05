@@ -19,12 +19,11 @@ This repository contains:
 
 Assuming that R is installed, the dependencies for the R scripts can be installed by typing in the R console `devtools::install_dev_deps()` while in the folder of the repository.
 The DESCRIPTION file contains the dependencies.
-First, make sure to have R installed.
 
-Each .R file in the code folder can be run by calling the 
+Each .R file can be run by calling:
 
 ```{bash}
-Rscript code/pdp-biases-visualiation.R
+Rscript pdp-biases-visualiation.R
 ```
 
 For the application and model-based uncertainty quantification more detailed instructions can be found in the respective zip files.
