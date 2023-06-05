@@ -11,7 +11,6 @@ This repository contains:
 - Code for the coverage plot (plot_coverage.R)
 - Code for PDP uncertainty (pdp-uncertainty.R)
 - Code for the PDP biases visualization (pdp-biases-visualization.R)
-- Code for the lmu-pfi-inflation-hypothesis.R
 - Helper functions used in the scripts (folder ./R/)
 - DESCRIPTION file describing the package dependencies
 
