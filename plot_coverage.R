@@ -1,6 +1,8 @@
 # =============================================================================
 # Create Tables and Plots for CI Experiments
 # =============================================================================
+
+# Loads all dependencies and utility functions
 devtools::load_all()
 
 # Where to put the plots

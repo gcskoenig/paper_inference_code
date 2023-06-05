@@ -1,6 +1,8 @@
 # =============================================================================
 # Create Figure to show sources of uncertainty for PDP
 # =============================================================================
+
+# Loads all dependencies and utility functions
 devtools::load_all()
 
 # Number of data points

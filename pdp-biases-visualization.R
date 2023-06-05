@@ -2,7 +2,9 @@
 # Visualize the Shrinkage bias
 # =============================================================================
 
+# This loads all dependencies and utility functions
 devtools::load_all()
+
 # Visualize sources of biases and variance
 n = 10000
 dat = data.frame(x = seq(from = 0, to = 10, length.out = n))

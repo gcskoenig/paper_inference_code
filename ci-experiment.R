@@ -17,8 +17,7 @@ N_PERM = 5
 N_TRUE = 10000
 NC = 6
 
-# Possible changes:
-# - For permutation, also allow to use newly generated data
+# This loads all dependencies and utility functions
 devtools::load_all()
 set.seed(1)
 

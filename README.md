@@ -12,6 +12,20 @@ This repository contains:
 - Code for PDP uncertainty (pdp-uncertainty.R)
 - Code for the PDP biases visualization (pdp-biases-visualization.R)
 - Code for the lmu-pfi-inflation-hypothesis.R
+- Helper functions used in the scripts (folder ./R/)
+- DESCRIPTION file describing the package dependencies
 
-Assuming that R is installed, the dependencies for the R scripts can be installed by typing in the R console devtools::install_dev_deps() while in the folder of the repository.
+
+## How to run the code
+
+Assuming that R is installed, the dependencies for the R scripts can be installed by typing in the R console `devtools::install_dev_deps()` while in the folder of the repository.
+The DESCRIPTION file contains the dependencies.
+First, make sure to have R installed.
+
+Each .R file in the code folder can be run by calling the 
+
+```{bash}
+Rscript code/pdp-biases-visualiation.R
+```
+
 For the application and model-based uncertainty quantification more detailed instructions can be found in the respective zip files.
